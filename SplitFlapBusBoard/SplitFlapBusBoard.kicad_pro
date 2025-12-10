@@ -490,7 +490,7 @@
       "plot": "FAB/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SplitFlapBusBoard.step",
       "svg": "",
       "vrml": ""
     },
