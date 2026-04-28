@@ -466,7 +466,7 @@
     ]
   },
   "meta": {
-    "filename": "SplitFlapDriverATtiny1616V2.kicad_pro",
+    "filename": "SplitFlapDriverATtiny1616V3.kicad_pcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -508,9 +508,9 @@
       "idf": "",
       "netlist": "",
       "plot": "FAB/",
-      "pos_files": "Fabrication Files/",
+      "pos_files": "FAB/",
       "specctra_dsn": "",
-      "step": "SplitFlapDriverATtiny1616V2.step",
+      "step": "SplitFlapDriverATtiny1616V3.kicad_pcb.step",
       "svg": "",
       "vrml": ""
     },
